@@ -1,0 +1,7 @@
+Finding,Evidence,Business_Recommendation
+High-risk customers,54.4% actual churn rate,Prioritize these customers for retention outreach
+Low-risk customers,4.7% actual churn rate,"Use lower-cost, routine engagement"
+Customer tenure,Top Random Forest predictor,Investigate onboarding and early-life churn
+Contract type,Important model predictor,Review contract options and renewal experience
+Monthly charges,Important model predictor,Investigate price concerns and perceived value
+Payment method,Electronic check appears among top predictors,Review payment friction and billing communication
