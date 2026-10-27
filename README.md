@@ -87,3 +87,13 @@ Predictive relationships and feature importance do not establish causation. Risk
 - `churn_risk_distribution.png` — customer risk group distribution
 - `churn_rate_by_risk.png` — actual churn rate by risk group
 
+## Visual Results
+
+### Customer Risk Distribution
+
+![Customer risk distribution](churn_risk_distribution.png)
+
+### Actual Churn Rate by Risk Group
+
+![Actual churn rate by risk group](churn_rate_by_risk.png)
+
